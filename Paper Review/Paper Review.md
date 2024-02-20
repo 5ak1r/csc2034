@@ -17,3 +17,20 @@ Stam states that they have written many versions of the solver and various demos
 6.
 
 The results are interpreted in a very straightforward manner. They relate to the original problem of providing an efficient visualisation of fluid flows for video games. Furthermore, the additional work described, that resulted in the successful development of fluid effects for MAYA, further emphasises their achievement. A logical interpretation is almost guaranteed to arise given the simplicity of the task defined for themselves; to create a simple and lightweight solver. Although the paper does not explicitly state faults or flaws, it gives a lot of ideas on how to further improve the simple example provided. It is essential to note that the algorithm meets the predefined requirements as is.
+
+7.
+
+With over 400 citations, it is a sensible assumption that Stam has made a significant contribution to the area of fluid dynamics for not just video games, but other areas of computing too. An example of this would be in Morris et al. (2006), where they use Stam's findings to aid in simulating bone surgery for training and evaluation, using Eulerian methods similar to Stam. Furthermore, Stam uses their own research in future work (Stam, 2004), where they explore the simulation and control of physical phenomena in computer graphics. Additionally, the MAYA Fluid Effects feature for modeling and animation software is a functional, successful culmination of this research.
+
+8.
+
+Stam (2003) is a paper that presents a simple and fast implementation of a fluid dynamnics solver, primary aimed at game engines. As such, it prioritises visual quality, speed and stability over physical accuracy. This is unlike existing applications as their algorithms prioritise accuracy, at the expense of being more complex and time consuming; not recommended for video games. Stam emphasises the importance of developing a successful fluid velocity solver to enhance player immersion, given the abundance of fluid flows in games, such as "swirling smoke past a moving character". Stam talks about the initial work of creating a density solver, due to the similarity of the density and velocity equations written by Navier and Stokes, allowing methods created for it to be seamlessly reused in the fluid velocity solver. There is a clear explanation of the processes used and the mathematical theory behind the code produced, separated into small, comprehensible chunks. Overall, it is simple to follow and accessible to those with little knowledge of the theory behind fluid dynamics. However, without the written explanations, the code itself is very difficult to interpret. Variable names are not well-defined, usually a single letter and sometimes a number, so there is significantly reduced readability. Stam's findings and results are in line with their initial goal; they successfully produced and explained a fluid velocity solver that was fast and visually precise when compared to fluids presented in Van Dyke's book. Additionally, although Stam agrees that the solver given is not perfect, it satisfies the predefined requirements of effiency. There is a prudent collection of improvements and extensions that can be made to further enhance the solver, as well as ways to alter the existing functionality of boundaries. The images provided are relevant and aid in improving the reader's understanding of the topics described.
+
+9. 
+
+
+Morris, D., Sewell, C., Barbagli, F., Salisbury, K., Blevins, N.H. and Girod, S. (2006). Visuohaptic simulation of bone surgery for training and evaluation. IEEE Computer Graphics and Applications, 26(6), pp.48–57. doi:https://doi.org/10.1109/mcg.2006.140.
+
+Stam, J. (2003). Real-Time Fluid Dynamics for Games. [online] Available at: https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf.
+
+Stam, J. (2004). Simulation and Control of Physical Phenomena in Computer Graphics. 12th Pacific Conference on Computer Graphics and Applications, 2004. PG 2004. Proceedings., pp.171–173. doi:https://doi.org/10.1109/pccga.2004.1348347.
