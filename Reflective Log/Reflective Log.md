@@ -14,11 +14,12 @@ Interpretation - What is most important/interesting/useful/relevant about the to
 Interconnection - How is it similar to and different from others?
 Outcome - What have you learned from this? What does this mean for your future?
 
-Description
-===========
 
 Science of Programming
-----------------------
+======================
+
+Description
+-----------
 
 - How do we know a computer program is correct; correctness of a program
 - Scientific paradigms, methodology, ontology, epistemology
@@ -30,11 +31,14 @@ Science of Programming
 - Also act as a formal assumption, or a post-condition, end point
 - Can have them as their own functions, def pre_(): return bool, then assert pre_()
 - Data invariant, a condition that must always be met, can also be functions see above
-- Abstraction, planning, importance of preparation - lecture was kinda confusing but interesting
+- Abstraction, planning, importance of preparation - lecture was confusing but interesting
 - "Abstraction is all we've got"
 
 HCI
----
+===
+
+Description
+-----------
 
 - Designing usable interfaces to digital technology
 - 'a discipline concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of the major phenomena surrounding them'
@@ -53,12 +57,18 @@ HCI
 - Shadowing - walking around, observing what they do, can be powerful but hard to do for large samples and tricky to record data
 
 Biocomputing
-------------
+============
+
+Description
+-----------
 
 - No access to slides come back to this
 
 Data Science
-------------
+============
+
+Description
+-----------
 
 - Data Scientist vs Data Engineer; science - machine learning, analytics, visualisation for easier human interpretation, often applied statistics, engineer - efficient data management at scale, both - big data analytics
 - Spend most of their time cleaning and organising data; also deemed to be the least enjoyable part of data science
@@ -72,7 +82,10 @@ Data Science
 - Different shaped graphs can have the same summary data; make both calculations and graphs, never trust summary data alone
 
 Game Engineering
-----------------
+================
+
+Description
+-----------
 
 - Code that makes the game work = game engineer
 - Lots of other roles required to successfully make a game, e.g. writers for storyline, textures and meshes by artists, etc.
