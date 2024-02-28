@@ -34,6 +34,8 @@ Description
 - Abstraction, planning, importance of preparation - lecture was confusing but interesting
 - "Abstraction is all we've got"
 
+- Wordle and Propositional Logic
+
 HCI
 ===
 
@@ -55,6 +57,8 @@ Description
 - Iteratively testing and evaluating the designs and the user experience that they offer; expert testing, user testing
 - Gathering data to do this; questionnaires, surveys, interviews, focus groups
 - Shadowing - walking around, observing what they do, can be powerful but hard to do for large samples and tricky to record data
+
+- Talking in pairs and making a paper prototype
 
 Biocomputing
 ============
@@ -86,6 +90,8 @@ Description
 - Supervised vs. unsupervised deep learning
 - Natural selection - fittest == best adapted to the environment, selection - the fittest mates reproduce, inheritance - children are similar to parents, variation - random mutations and genetic crossover, individuals become more specialised
 
+- Game of life simulation and other simulation
+
 Data Science
 ============
 
@@ -102,6 +108,8 @@ Description
 - Two types of machine learning: supervised - map data to labels, classification and regression, unsupervised - data without labels, feature extraction, dimensionality reduction, clustering
 - Overfitting and underfitting; aim to make training error small, make gap between train error and test error small; underfitting - model not able to obtain a low error value on training data set; overfitting - gap between training error and test error is too large
 - Different shaped graphs can have the same summary data; make both calculations and graphs, never trust summary data alone
+
+- Modelling data and using python to graph it
 
 Game Engineering
 ================
@@ -124,3 +132,5 @@ Description
 - Portfolio, completed project, interest are all requirements to get into the industry
 - History of games, birth of AAA in 1990s, evolution of video games across time
 - Game design process, no more graphics for games module
+
+- Mellow Yellow, practicing unity
