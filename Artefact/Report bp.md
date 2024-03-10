@@ -34,3 +34,6 @@ What Was Done and How
 - Hint decisions
 - Cannot guess the same word twice
 - Guesses have to be words
+- Regex
+- Check Comments
+- Problems with getting the clues working because mixing up answer and guess
