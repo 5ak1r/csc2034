@@ -29,6 +29,8 @@ Appendices (optional)
 
 What Was Done and How
 
-- Continuing from the practical
+- Continuing from the practical, using the sample solution
 - Adding tests as we go
 - Hint decisions
+- Cannot guess the same word twice
+- Guesses have to be words
