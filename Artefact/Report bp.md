@@ -37,3 +37,18 @@ What Was Done and How
 - Regex
 - Check Comments
 - Problems with getting the clues working because mixing up answer and guess
+
+- create screen
+- add a letter
+- add outline
+- implement typing
+- implement letters showing across from each other
+- implement backspace
+- enter, moving to next line
+- actual gameplay, enter does something
+- implement hard mode button
+- fix hard mode
+- messages
+- Tkinter window
+- Doesn't refocus back to PyGame window
+- either fix or add as improvement
