@@ -54,3 +54,14 @@ What Was Done and How
 - either fix or add as improvement
 - changed print_state to return instead of print
 - changed a regex to an iteration; regex cares about order for yellow hints which is not wanted
+- 'keyboard' for clue visibility
+- add box_size argument to Letter class, smaller boxes for keyboard
+- problem with assertion in terms of screen space, check for < 0 instead of < SPACE // 2 since the initialiser was adding it>
+- swapped grey and dark grey
+- hint button, could've made hint part of the game class to not need arguments, next time
+- talk about the buttons always being just rectangles when defined, so the same method can be used to display the hint itself
+- edited hint method to work, previously wasn't doing yellows correctly
+- changed hint colour to yellow
+- keyboard colours being overwritten when duplicate is grey, fixed now to check light grey first
+- function to recall keyboard for when game restarts
+- hint not perfect, based off previous guess and does not use already known yellow; perfect for hard mode
