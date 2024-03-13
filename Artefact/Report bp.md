@@ -53,3 +53,4 @@ What Was Done and How
 - Doesn't refocus back to PyGame window
 - either fix or add as improvement
 - changed print_state to return instead of print
+- changed a regex to an iteration; regex cares about order for yellow hints which is not wanted
