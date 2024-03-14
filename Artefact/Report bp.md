@@ -67,3 +67,5 @@ What Was Done and How
 - hint not perfect, based off previous guess and does not use already known yellow; perfect for hard mode
 
 - "You could just stop there—if you know there’s a G in it somewhere, seeing that headline might help you place it without taking an extra guess." https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779
+- https://www.youtube.com/watch?v=mJ2hPj3kURg
+- https://stackoverflow.com/questions/63395415/how-to-change-focus-to-pygame-window
