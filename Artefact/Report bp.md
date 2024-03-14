@@ -65,3 +65,5 @@ What Was Done and How
 - keyboard colours being overwritten when duplicate is grey, fixed now to check light grey first
 - function to recall keyboard for when game restarts
 - hint not perfect, based off previous guess and does not use already known yellow; perfect for hard mode
+
+- "You could just stop there—if you know there’s a G in it somewhere, seeing that headline might help you place it without taking an extra guess." https://lifehacker.com/how-to-get-a-wordle-hint-without-spoiling-the-whole-thi-1849610779
